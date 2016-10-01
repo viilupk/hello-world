@@ -1,4 +1,4 @@
 # hello-world
-kirjutan hiljem. ausalt
+i200
 
-I like cats :)
+Java ja github intro.

@@ -4,10 +4,7 @@ i200
 Soov on teha rendiautode haldussüsteem, mis aitaks rendiautosid rendipunktide vahel ümber jaotada ning tagada autode olemasolu rendipunktis kliendi poolt broneeritud ajahetkeks.
 Midagi sarnast ELMO renditeenusele Tallinnas.
 
--Ütleme alustuseks, et ringluses on 18 rendiautot - kaks erinevat mudelit (9/9)
--Teatud vahemaa peale on ära jaotatud 10 rendipunkti. Igasse rendipunti saab jätta maksimaalselt kolm autot.
--Rendiautot ei pea tagastama samasse rendipunkti kust sõitu alustati vaid võib jätta ükskõik millisesse rendipunti. 
--Punktis X (kesklinnas) peab igal ajahetkel olema vähemalt üks auto.
+-Ütleme alustuseks, et ringluses on 18 rendiautot - kaks erinevat mudelit (9/9).Teatud vahemaa peale on ära jaotatud 10 rendipunkti. Igasse rendipunti saab jätta maksimaalselt kolm autot. Rendiautot ei pea tagastama samasse rendipunkti kust sõitu alustati vaid võib jätta ükskõik millisesse rendipunti. Punktis X (kesklinnas) peab igal ajahetkel olema vähemalt üks auto.
 
 Probleem seisneb selles, et kui rendiautot kasutatakse mingil ajahetkel teatud piirkonnas sagedamini, siis jäävad kõik rendiautod teatud rendipunkti ning ei ole mugavalt kättesaadavad kasutajatele teistes rendipunktides
 Autosid aitab ringluses hoida nende ümberpaigutamine, mida teostab vastavalt vajadusele teenusepakkuja.
